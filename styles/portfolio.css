@@ -7,15 +7,28 @@
 }
 .btn-primary{
     color: #FFFFFF;
-      font-weight: 700;
-    font-size: 20px;
+      font-weight: 300;
+    font-size: 15px;
     height: 64px;
+    left: 460px;
+     top: 589px;
     background: #FD6E0A;
-    border-radius: 5px;
+    border-radius: 5px; 
     border: 0;
     padding: 18px 35px;
+    text-align: center;
 
     
+}
+.btn-second{
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    padding: 19px 23px 18px 24px;
 }
 /* header and navigation styles */
 .header{
